@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-I am Software Engineer from Azerbaijan 🇦🇿 studying in South Korea 🇰🇷 with strong background in mathematics.  
+I am Software Engineer from Azerbaijan :azerbaijan: studying in South Korea :kr: with strong background in mathematics.  
 
 I love working on challenging problems and interested in Artificial Intelligence, Distributed/Parallel Computing, and Quantitative Research.  
 
