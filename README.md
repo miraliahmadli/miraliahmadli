@@ -10,8 +10,6 @@ I love working on challenging problems and interested in Artificial Intelligence
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=miraliahmadli&show_icons=true&line_height=40)  
 
-[![HitCount](http://hits.dwyl.com/miraliahmadli/miraliahmadli.svg)](http://hits.dwyl.com/miraliahmadli/miraliahmadli)  
-
 <!--
 **miraliahmadli/miraliahmadli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![HitCount](http://hits.dwyl.com/miraliahmadli/miraliahmadli.svg)](http://hits.dwyl.com/miraliahmadli/miraliahmadli)  
