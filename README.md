@@ -1,12 +1,15 @@
 ### Hi there 👋  
 
-I am Software Engineer from Azerbaijan :azerbaijan: studying in South Korea :kr: with strong background in mathematics.  
+I am Software Engineer from Azerbaijan :azerbaijan: studying Computer Science and Mathematics in South Korea :kr:.  
 
 I love working on challenging problems and interested in Artificial Intelligence, Distributed/Parallel Computing, and Quantitative Research.  
 
 **Currently working as:** Research Engineer Intern at [Seoul Robotics](https://www.seoulrobotics.org/).  
 
 **Currently working on:** Computer Vision and Machine Learning.  
+
+- 📫 How to reach me:  
+[![](https://img.icons8.com/metro/26/000000/linkedin.png)](https://www.linkedin.com/in/miraliahmadli/)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=miraliahmadli&show_icons=true&line_height=40)  
 
