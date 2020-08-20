@@ -2,7 +2,7 @@
 
 I am Software Engineer from Azerbaijan :azerbaijan: studying Computer Science and Mathematics in South Korea :kr:.  
 
-I love working on challenging problems and interested in Artificial Intelligence, Distributed/Parallel Computing, and Quantitative Research.  
+I love working on challenging problems and interested in Artificial Intelligence (especially ML, NLP, and CV), Distributed/Parallel Computing, and Quantitative Research.  
 
 **Currently working as:** Research Engineer Intern at [Seoul Robotics](https://www.seoulrobotics.org/).  
 
