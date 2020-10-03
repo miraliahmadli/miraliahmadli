@@ -1,14 +1,14 @@
-### Hi there 👋  
+### Hi there 👋 :azerbaijan:   
 
-I am Software Engineer from Azerbaijan :azerbaijan: studying Computer Science and Mathematics in South Korea :kr:.  
+I am Computer Science and Mathematics student at KAIST (Korea Advanced Institute of Science and Technology) :kr:.  
 
 I love working on challenging problems and interested in Artificial Intelligence (especially ML, NLP, and CV), Distributed/Parallel Computing, and Quantitative Research.  
 
-Previously interned as Software Engineer, which I developed some internal features, and ML / Research Engineer, which I worked on developing Deep Learning perception models for various Computer Vision tasks and implemented SOTA papers.  
+Previously interned as Software Engineer, where I developed some internal features, and ML / Research Engineer, where I worked on developing Deep Learning perception models for various Computer Vision tasks and implemented SOTA papers.  
 <!--
 **Currently working as:** Research Engineer Intern at [Seoul Robotics](https://www.seoulrobotics.org/).  
 
-**Currently working on:** Computer Vision and Machine Learning.  
+**Currently working on:** Computer Vision, Machine Learning, and Graph Theory.  
 -->
 
 <a href="#">
@@ -34,7 +34,7 @@ Previously interned as Software Engineer, which I developed some internal featur
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
 
 **Languages:**   
-:azerbaijan: :tr: :uk:
+### :azerbaijan: :tr: :uk:
 
 📫 How to reach me: [![](https://img.icons8.com/metro/26/000000/linkedin.png)](https://www.linkedin.com/in/miraliahmadli/)
 
